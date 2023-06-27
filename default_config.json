@@ -1,0 +1,10 @@
+{
+	"sourceDir": "/home/user/sync2Folder/testSourceDir",
+	"destinationDir": "/home/user/sync2Folder/testDestinationDir",
+	"fileTypes": ["jpg","png"],
+	"logEnable": true,
+	"logPath": "/home/user/sync2Folder/testLogFile.log",
+	"verbose": true,
+	"delete": true,
+	"dryRun": false
+}
