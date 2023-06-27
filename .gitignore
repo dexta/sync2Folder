@@ -3,3 +3,4 @@ testSourceDir/
 testDestinationDir/
 testEmptyDir/
 testLogFile.log
+config.json
